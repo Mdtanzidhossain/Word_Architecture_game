@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="ScoundPage" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="707.0" prefWidth="903.0" style="-fx-border-width: 5; -fx-border-color: Blue; -fx-background-color: Black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerOfMainPage">
+   <children>
+      <ImageView fitHeight="697.0" fitWidth="707.0" layoutX="3.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@GamesBg.jpg" />
+         </image>
+      </ImageView>
+      <GridPane hgap="5.0" layoutX="199.0" layoutY="80.0" prefHeight="506.0" prefWidth="424.0" style="-fx-border-width: 2; -fx-border-color: white;" vgap="5.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="btn1" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@buttonCss.css" textFill="#e31717">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font></Button>
+            <Button fx:id="btn3" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn4" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn5" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn6" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn7" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn8" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn10" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold " size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn9" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn11" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn12" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn13" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn14" mnemonicParsing="false" onAction="#wordMaking" prefHeight="60.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn15" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn17" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="4">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn18" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="4">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn19" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="4">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn20" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="4">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn16" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn21" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="5">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn22" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="5">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn23" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="5">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn24" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="5">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn25" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="6">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn26" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="6">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn27" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="6">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn28" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="6">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn29" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="7">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn30" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="7">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn31" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="7">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn32" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="7">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn33" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="8">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn34" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="8">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn35" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="8">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn36" mnemonicParsing="false" onAction="#wordMaking" prefHeight="42.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="8">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn37" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.rowIndex="9">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn38" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1" GridPane.rowIndex="9">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn39" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="2" GridPane.rowIndex="9">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn40" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="3" GridPane.rowIndex="9">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn2" mnemonicParsing="false" onAction="#wordMaking" prefHeight="50.0" prefWidth="50.0" stylesheets="@wordarc.css" GridPane.columnIndex="1">
+               <font>
+                  <Font name="System Bold" size="22.0" />
+               </font>
+            </Button>
+         </children>
+      </GridPane>
+      <Label fx:id="selectword" contentDisplay="CENTER" layoutX="22.0" layoutY="208.0" prefHeight="56.0" prefWidth="169.0" stylesheets="@wordarc.css" text="SELECTED WORD" textAlignment="CENTER" underline="true">
+         <font>
+            <Font name="Algerian" size="22.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+         <textFill>
+            <RadialGradient centerX="0.5" centerY="0.5" cycleMethod="REPEAT" focusAngle="116.57" focusDistance="-1.0" radius="0.3953488372093023">
+               <stops>
+                  <Stop color="#04e800" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Label>
+      <Label fx:id="hiscore" layoutX="199.0" layoutY="26.0" prefHeight="30.0" prefWidth="175.0" text="HIGH SCORE -" textAlignment="CENTER">
+         <font>
+            <Font name="Algerian" size="27.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.5" centerY="0.5" cycleMethod="REPEAT" focusAngle="-55.12" focusDistance="-0.18604651162790697" radius="0.37209302325581395">
+               <stops>
+                  <Stop color="#04e800" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Label>
+      <Button fx:id="searchfile" layoutX="66.0" layoutY="314.0" mnemonicParsing="false" onAction="#wrdshow" prefHeight="39.0" prefWidth="83.0" style="-fx-background-color: #000000;" text="DONE">
+         <font>
+            <Font name="Algerian" size="15.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.8777777777777778" centerY="0.49047619047619045" cycleMethod="REPEAT" focusAngle="172.87" focusDistance="-0.3255813953488371" radius="0.8604651162790697">
+               <stops>
+                  <Stop color="#ff8ee0" />
+                  <Stop color="#e51515" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill></Button>
+      <Button fx:id="menubutton" layoutX="75.0" layoutY="90.0" mnemonicParsing="false" onAction="#menuAction" prefHeight="46.0" prefWidth="63.0" style="-fx-background-color: #000000; fx-border-color: white;" text="MENU">
+         <font>
+            <Font name="Algerian" size="16.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.8777777777777778" centerY="0.49047619047619045" cycleMethod="REPEAT" focusAngle="172.87" focusDistance="-0.3255813953488371" radius="0.8604651162790697">
+               <stops>
+                  <Stop color="#ff8ee0" />
+                  <Stop color="#e51515" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill></Button>
+      <Label fx:id="score" layoutX="374.0" layoutY="26.0" prefHeight="30.0" prefWidth="90.0" style="-fx-border-color: #b0f5c0; -fx-border-radius: 10;">
+         <font>
+            <Font name="Ravie" size="21.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.5" centerY="0.5" cycleMethod="REPEAT" focusAngle="105.38" focusDistance="-0.34883720930232553" radius="0.8604651162790697">
+               <stops>
+                  <Stop color="#fffd8e" />
+                  <Stop color="#e51515" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill></Label>
+      <Label layoutX="37.0" layoutY="394.0" prefHeight="48.0" prefWidth="142.0" text="score" underline="true">
+         <font>
+            <Font name="Algerian" size="41.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.5" centerY="0.5" cycleMethod="REPEAT" focusAngle="-143.89" focusDistance="-0.2558139534883721" radius="0.4418604651162791">
+               <stops>
+                  <Stop color="#04e800" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Label>
+      <TextField fx:id="inputwords" layoutX="32.0" layoutY="256.0" prefHeight="39.0" prefWidth="149.0" style="-fx-background-color: red;" />
+      <Label fx:id="newScore" layoutX="35.0" layoutY="451.0" prefHeight="56.0" prefWidth="123.0" style="-fx-border-color: #b0f5c0; -fx-border-radius: 10;" textAlignment="CENTER" textFill="#e51515">
+         <font>
+            <Font name="Algerian" size="39.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

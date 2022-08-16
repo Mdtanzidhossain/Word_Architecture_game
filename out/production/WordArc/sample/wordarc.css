@@ -1,0 +1,750 @@
+
+#btn2
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn2:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn3
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn3:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn4
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn4:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn5
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn5:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn6
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn6:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn7
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn7:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn8
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn8:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn9
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn9:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn10
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn10:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn11
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn11:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+#btn12
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn12:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn13
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn13:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn14
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn14:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn15
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn15:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn16
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn16:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn17
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn17:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn18
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn18:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn19
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn19:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn20
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn20:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn21
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn21:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn22
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn22:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn23
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn23:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn24
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn24:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn25
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn25:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn26
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn26:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn27
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn27:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn28
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn28:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn29
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn29:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn30
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn30:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn31
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn31:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn32
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn32:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn33
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn33:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn34
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn34:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn35
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn35:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn36
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn36:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+#btn37
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn37:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn38
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn38:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn39
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn39:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#btn40
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn40:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+---------
+#btn
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+----------
+#btn
+{
+    -fx-background-color:
+            linear-gradient(#a9ff00,#f0ff35),
+            radial-gradient(center 50% -40%, radius 200%, #80c800 45%, #b8ee36 50%);
+    -fx-background-radius: 60,15;
+    -fx-background-insets: 0,1;
+
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0.0, 0, 1);
+   -fx-text-fill: #395306;
+
+}
+#btn:pressed
+{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
